@@ -15,7 +15,7 @@ This project implements a book recommendation system using two approaches:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Books-Recommendation-System.git
+    git clone https://github.com/Mahad-Saffi/Books-Recommendation-System.git
     ```
 
 ## Usage
