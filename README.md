@@ -1,4 +1,4 @@
-# Book Recommendation System
+# Books Recommendation System
 
 ## Description
 
