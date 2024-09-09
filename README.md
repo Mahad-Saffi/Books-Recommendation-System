@@ -41,3 +41,7 @@ To recommend books similar to "A Case of Need":
 recommended_books = RecommendBooks("A Case of Need")
 for book in recommended_books:
     print(book)
+```
+
+## Acknowledgements
+ - The Datasets used in this project are sourced from [Book Recommendation System By Möbius](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
